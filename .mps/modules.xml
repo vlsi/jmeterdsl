@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com.github.vlsi.jmeter/com.github.vlsi.jmeter.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.github.vlsi.jmeter/runtime/com.github.vlsi.jmeter.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.github.vlsi.jmeter/sandbox/com.github.vlsi.jmeter.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
